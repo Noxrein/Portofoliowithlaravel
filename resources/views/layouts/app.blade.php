@@ -128,7 +128,7 @@
             <div class="max-w-7xl mx-auto px-6 py-12">
                 <div class="flex flex-col md:flex-row justify-between items-center">
                     <div class="text-gray-400 mb-4 md:mb-0">
-                        &copy; 2025 Rizky Fikry.
+                        &copy; Rizky Fikry.
                     </div>
                     <div class="flex space-x-6">
                         @foreach($userData['social'] as $platform => $url)

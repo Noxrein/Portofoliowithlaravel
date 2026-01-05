@@ -140,7 +140,6 @@
                                             <span class="text-white text-lg font-semibold">{{ $project->title }}</span>
                                         </div>
                                     </div>
-
                                     <div
                                         class="absolute inset-0 bg-black/0 group-hover:bg-black/20 transition-all duration-500">
                                     </div>
