@@ -299,13 +299,10 @@
                             </div>
                         </div>
                     </div>
-
-                    <!-- Social Links -->
-                    <!-- Social Links -->
+                    
                     <div>
                         <h4 class="font-semibold text-white mb-4">Follow Saya</h4>
                         <div class="flex space-x-4">
-                            <!-- GitHub -->
                             <a href="{{ $userData['social']['github'] }}"
                                 class="w-10 h-10 bg-dark-tertiary border border-gray-700 rounded-lg flex items-center justify-center text-gray-400 hover:text-white hover:border-navy-500 transition-all duration-300 transform hover:-translate-y-1 hover:bg-gray-800/30">
                                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -313,8 +310,6 @@
                                         d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
                                 </svg>
                             </a>
-
-                            <!-- LinkedIn -->
                             <a href="{{ $userData['social']['linkedin'] }}"
                                 class="w-10 h-10 bg-dark-tertiary border border-gray-700 rounded-lg flex items-center justify-center text-gray-400 hover:text-blue-400 hover:border-blue-400 transition-all duration-300 transform hover:-translate-y-1 hover:bg-gray-800/30">
                                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -323,8 +318,6 @@
                                     <circle cx="4" cy="4" r="2" stroke="none" fill="currentColor" />
                                 </svg>
                             </a>
-
-                            <!-- Instagram -->
                             <a href="https://www.instagram.com/rzfdillah/"
                                 class="w-10 h-10 bg-dark-tertiary border border-gray-700 rounded-lg flex items-center justify-center text-gray-400 hover:text-pink-500 hover:border-pink-500 transition-all duration-300 transform hover:-translate-y-1 hover:bg-gray-800/30">
                                 <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -333,8 +326,6 @@
                                     <line x1="17.5" y1="6.5" x2="17.51" y2="6.5" />
                                 </svg>
                             </a>
-
-                            <!-- TikTok -->
                             <a href="https://www.tiktok.com/@rxreinxii"
                                 class="w-10 h-10 bg-dark-tertiary border border-gray-700 rounded-lg flex items-center justify-center text-gray-400 hover:text-black hover:bg-white transition-all duration-300 transform hover:-translate-y-1">
                                 <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
