@@ -55,7 +55,8 @@
                     </p>
                     <p class="text-lg text-gray-300 leading-relaxed">
                         Meski berfokus pada pengembangan backend, saya juga memiliki pemahaman yang baik dalam frontend
-                        development, sehingga mampu membangun solusi full-stack yang terintegrasi menggunakan Laravel, React, Vue
+                        development, sehingga mampu membangun solusi full-stack yang terintegrasi menggunakan Laravel,
+                        React, Vue
                         Node.js.
                     </p>
                     <div class="flex items-center space-x-4 pt-4">
@@ -118,7 +119,8 @@
         <div class="max-w-7xl mx-auto px-6 relative z-10">
             <div class="text-center mb-16">
                 <h2 class="text-3xl md:text-4xl font-bold text-white mb-4">Projek & Sertifikat</h2>
-                <p class="text-xl text-gray-300 max-w-2xl mx-auto">Beberapa projek dan sertifikat terbaru yang menunjukkan pendekatan saya
+                <p class="text-xl text-gray-300 max-w-2xl mx-auto">Beberapa projek dan sertifikat terbaru yang menunjukkan
+                    pendekatan saya
                     dalam development</p>
                 <div class="w-20 h-1 bg-navy-500 mx-auto rounded-full mt-4"></div>
             </div>
