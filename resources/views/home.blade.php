@@ -55,7 +55,7 @@
                     </p>
                     <p class="text-lg text-gray-300 leading-relaxed">
                         Meski berfokus pada pengembangan backend, saya juga memiliki pemahaman yang baik dalam frontend
-                        development, sehingga mampu membangun solusi full-stack yang terintegrasi menggunakan Laravel dan
+                        development, sehingga mampu membangun solusi full-stack yang terintegrasi menggunakan Laravel, React, Vue
                         Node.js.
                     </p>
                     <div class="flex items-center space-x-4 pt-4">
@@ -299,7 +299,7 @@
                             </div>
                         </div>
                     </div>
-                    
+
                     <div>
                         <h4 class="font-semibold text-white mb-4">Follow Saya</h4>
                         <div class="flex space-x-4">
